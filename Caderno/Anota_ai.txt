@@ -1,3 +1,22 @@
 
 
-Capítulo 5 Aula 2
+Capítulo 6 Aula 2
+
+    FOrmato PNG - substituir o formato gif 
+        QUANDO USAR? 
+            Quando quiser fundos transparentes e qualidade melhor
+
+        exemplo: imagem com fundo transparente e flutuando
+
+    Formato JPEG permite alta compactação
+        QUANDO USAR?
+            Quando a compactação é algo importante
+
+        exemplo: imagem de fundo grande --> JPEG
+
+    imagem de 20MB é MUITO GRANDE
+
+Capítulo 6 Aula 3
+    Imagens devem ter no máximo 1500 pixels de largura em sites
+
+    Resolução X - pode ficar em 72 (Na aula ele colocou em 50)
