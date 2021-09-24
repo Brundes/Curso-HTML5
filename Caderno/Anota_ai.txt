@@ -1,8 +1,24 @@
+Capítulo 5 Aula 2
+    
+    Símbolos especiais:
+        &reg;
+        &copy;
+        &trade;
+        &euro;
+        &pound;
+        &yen;
+        &cent;
+        &delta;
+        &Delta;
+        &uparrow;
+        &uarr;
 
+    Adiconar emojis:
+        &#x1F91F;        
 
 Capítulo 6 Aula 2
 
-    FOrmato PNG - substituir o formato gif 
+    Formato PNG - substituir o formato gif 
         QUANDO USAR? 
             Quando quiser fundos transparentes e qualidade melhor
 
