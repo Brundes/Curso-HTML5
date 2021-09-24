@@ -36,3 +36,8 @@ Capítulo 6 Aula 3
     Imagens devem ter no máximo 1500 pixels de largura em sites
 
     Resolução X - pode ficar em 72 (Na aula ele colocou em 50)
+
+Capítulo 8 Aula 4
+    Fonte monoespaçada é ótima para let código --> <code> </code>
+
+    a TAG "<pre></pre>" serve para inserir as identações de código python
